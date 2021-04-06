@@ -1,1 +1,1 @@
-# OpenWeatherAPI
+#  Inlämningsuppgift 2: Värderkort 
